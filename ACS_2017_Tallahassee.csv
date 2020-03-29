@@ -1,5 +1,2 @@
-AGE TYPES,EST,CITY
-GenY,"32,498",Tallahassee
-GenX,"24,742",Tallahassee
-GenZ,"34,779",Tallahassee
-Over 18,"92,019",Tallahassee
+City,GenY,GenX,GenZ,All 18+
+Tallahassee,"32,498","24,742","34,779","92,019"

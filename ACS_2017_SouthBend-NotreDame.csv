@@ -1,5 +1,2 @@
-AGE TYPES,EST,CITY
-GenY,"38,969",South Bend
-GenX,"17,879",South Bend
-GenY,"24,492",South Bend
-Over 18,"81,340",South Bend
+City,GenY,GenX,GenZ,All 18+
+South Bend,"38,969","17,879","24,492","81,340"
